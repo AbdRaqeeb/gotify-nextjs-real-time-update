@@ -1,0 +1,55 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.formGroup {
+  margin-bottom: 20px;
+}
+
+.field {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  display: block;
+  margin-bottom: 15px;
+  width: 50%;
+}
+
+.button {
+  padding: 8px 16px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0051bb;
+}
+
+.notificationList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.notificationItem {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  color: #0a0a0a;
+}
